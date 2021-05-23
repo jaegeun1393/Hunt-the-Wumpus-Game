@@ -17,4 +17,4 @@ pit.o: pit.cpp
 wumpus.o: wumpus.cpp
 	g++ wumpus.cpp -c
 clean:
-	rm -f a.out *.o Hunt_wumpus
+	rm -f a.out *.o Hunt_wumpus 
